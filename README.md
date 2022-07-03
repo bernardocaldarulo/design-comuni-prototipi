@@ -2,7 +2,8 @@
 [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 
 # Il modello per i siti web dei Comuni Italiani
-⚠️ Questo repository fa riferimento al vecchio modello dei Comuni, trovi quello nuovo su https://designers.italia.it/modello/comuni/ ⚠️<br>
+⚠️ Questo repository fa riferimento al vecchio modello dei Comuni, trovi quello nuovo su https://designers.italia.it/modello/comuni/ ⚠️
+
  <img src="https://github.com/italia/design-comuni-prototipi/blob/master/cover-image.png" width="800"> 
  
 Benvenuto nel repository ufficiale del progetto “[I siti web dei Comuni Italiani](https://italia.github.io/design-comuni-prototipi/)”. 
